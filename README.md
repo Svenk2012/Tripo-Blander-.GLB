@@ -1,5 +1,6 @@
 # Tripo-Blander-.GLB
 Tripo → Blender
+
 Download Tripo Studio 3D models as Blender-compatible GLB files with Meshopt decompression.
 "Tripo → Blender" is a browser extension that helps download 3D models from Tripo Studio in GLB format for use in Blender.
 
