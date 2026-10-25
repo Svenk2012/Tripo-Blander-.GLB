@@ -26,8 +26,9 @@ Notes
 • Keep all extension files together in the same folder.
 • If you move or delete the extension folder, Chrome may no longer be able to load the extension.
 • This extension is an independent community project and is not affiliated with or endorsed by Tripo Studio or Blender.
-Важно
-• Перед использованием обязательно дождитесь полной загрузки страницы модели.
-• Не удаляйте отдельные файлы расширения и не переносите их в другие папки по отдельности.
-• Если переместить или удалить папку расширения, Chrome может перестать его загружать.
-• Для обновления расширения замените файлы новой версией и нажмите кнопку обновления на странице *ваш браузер*://extensions.
+
+License
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, distribute, and share this software, including for commercial purposes, provided that the original copyright notice and license are included.
